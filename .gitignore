@@ -1,0 +1,31 @@
+# NetBeans specific files
+nbproject/private/
+nbproject/Makefile-*
+nbproject/output/
+build/
+dist/
+.nbm/
+*.nbm
+**/build/
+**/dist/
+
+# Class files and log files
+*.class
+*.log
+
+# Other files to ignore
+*.jar
+*.war
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (NetBeans, Eclipse, IntelliJ)
+*.iml
+.idea/
+.project
+.settings/
+
+# Maven specific files if any Maven files are present
+target/
